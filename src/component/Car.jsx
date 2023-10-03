@@ -1,7 +1,5 @@
 import React from "react";
 import {FaSearch} from "react-icons/fa"
-import CarCard from "./CarCard";
-import carsData from "./cars.json";
 import CarList from "./CarList";
 
 function Car() {

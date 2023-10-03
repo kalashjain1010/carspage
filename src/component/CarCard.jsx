@@ -1,5 +1,5 @@
 import React from "react";
-import downloadImage from "./imgg.jpg"; // Import the image using a relative path
+
 import { BsPeople } from "react-icons/bs";
 import { LuFuel } from "react-icons/lu";
 import { BsSpeedometer2 } from "react-icons/bs";
@@ -13,8 +13,8 @@ const CarCard = ({ car }) => {
         <div className="bg-[#f1f5fb] w-80 m-10 border-solid border-2 rounded-xl border-white">
           <div className="flex flex-col p-2">
             <div>
-              <img className="rounded-2xl" src={downloadImage} alt="Car" />{" "}
-              {/* Use the imported image */}
+              <img className="rounded-2xl bg-cover" src={car.image}  alt="Car" />{" "}
+             
             </div>
             <div>
               <div className="flex flex-row justify-between p-2 ">
