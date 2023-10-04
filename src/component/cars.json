@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "2023 Toyota Camry",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://www.topgear.com/sites/default/files/2022/07/6_0.jpg",
     "price": "$25,990",
     "location": "City A, State A",
     "year": 2023,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "2022 Honda Civic",
-    "image": "src/assets/download.jpeg",
+    "image": "https://cdn.motor1.com/images/mgl/NGGZon/s3/koenigsegg-gemera.jpg",
     "price": "$29,750",
     "location": "City B, State B",
     "year": 2022,
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "2023 Ford Explorer",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202002/lamborghini_660_140220101539.jpg",
     "price": "$35,880",
     "location": "City A, State A",
     "year": 2023,
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "2022 Volkswagen Jetta",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.whichcar.com.au/image/private/s--s4_VpY0X--/c_fill,f_auto,g_xy_center,q_auto:good,x_1745,y_1349/t_p_4x3/2023_Kia_Seltos_GT_Line_SUV_blue-green_2211KiaSel_47.jpg",
     "price": "$28,450",
     "location": "City B, State B",
     "year": 2022,
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "2023 BMW X5",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/migrated/cars/Cars/lamborghini/carbonado/mansory_lamborghini_aventador_carbonado_03.jpg?h=288a8269&itok=M8OxNTRm",
     "price": "$52,350",
     "location": "City A, State A",
     "year": 2023,
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "2022 Mercedes-Benz C-Class",
-    "image": "src/assets/download.jpeg",
+    "image": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-2-Series-Gran-Coupe-271220221147.jpg",
     "price": "$41,990",
     "location": "City B, State B",
     "year": 2022,
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "2023 Audi Q7",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/migrated/cars/Cars/lamborghini/carbonado/mansory_lamborghini_aventador_carbonado_03.jpg?h=288a8269&itok=M8OxNTRm",
     "price": "$54,890",
     "location": "City A, State A",
     "year": 2023,
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "2022 Hyundai Elantra",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$26,550",
     "location": "City B, State B",
     "year": 2022,
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "name": "2023 Lexus RX",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://cdn.motor1.com/images/mgl/NGGZon/s3/koenigsegg-gemera.jpg",
     "price": "$47,950",
     "location": "City A, State A",
     "year": 2023,
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "name": "2022 Ford Mustang",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$42,650",
     "location": "City B, State B",
     "year": 2022,
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "name": "2023 Nissan Altima",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-2-Series-Gran-Coupe-271220221147.jpg",
     "price": "$28,780",
     "location": "City A, State A",
     "year": 2023,
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "name": "2022 Subaru Outback",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$32,470",
     "location": "City B, State B",
     "year": 2022,
@@ -158,7 +158,7 @@
   {
     "id": 14,
     "name": "2022 Honda Accord",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.whichcar.com.au/image/private/s--s4_VpY0X--/c_fill,f_auto,g_xy_center,q_auto:good,x_1745,y_1349/t_p_4x3/2023_Kia_Seltos_GT_Line_SUV_blue-green_2211KiaSel_47.jpg",
     "price": "$31,590",
     "location": "City B, State B",
     "year": 2022,
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "name": "2023 Ford F-150",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202002/lamborghini_660_140220101539.jpg",
     "price": "$42,640",
     "location": "City A, State A",
     "year": 2023,
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "name": "2022 Chevrolet Silverado",
-    "image": "src/assets/download.jpeg",
+    "image": "https://cdn.motor1.com/images/mgl/NGGZon/s3/koenigsegg-gemera.jpg",
     "price": "$44,590",
     "location": "City B, State B",
     "year": 2022,
@@ -206,7 +206,7 @@
   {
     "id": 18,
     "name": "2022 Toyota RAV4",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$35,780",
     "location": "City B, State B",
     "year": 2022,
@@ -230,7 +230,7 @@
   {
     "id": 20,
     "name": "2022 Subaru Crosstrek",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$27,195",
     "location": "City B, State B",
     "year": 2022,
@@ -254,7 +254,7 @@
   {
     "id": 22,
     "name": "2022 Nissan Rogue",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.whichcar.com.au/image/private/s--s4_VpY0X--/c_fill,f_auto,g_xy_center,q_auto:good,x_1745,y_1349/t_p_4x3/2023_Kia_Seltos_GT_Line_SUV_blue-green_2211KiaSel_47.jpg",
     "price": "$29,650",
     "location": "City B, State B",
     "year": 2022,
@@ -278,7 +278,7 @@
   {
     "id": 24,
     "name": "2022 BMW 3 Series",
-    "image": "src/assets/download.jpeg",
+    "image": "https://assets.mspimages.in/gear/wp-content/uploads/2023/01/Bugati.png",
     "price": "$41,250",
     "location": "City B, State B",
     "year": 2022,
@@ -290,7 +290,7 @@
   {
     "id": 25,
     "name": "2023 Audi A4",
-    "image": "src/assets/imgg.jpg",
+    "image": "https://robbreport.com/wp-content/uploads/2022/11/2-7.jpg?w=681&h=383&crop=1",
     "price": "$39,895",
     "location": "City A, State A",
     "year": 2023,
@@ -302,7 +302,7 @@
   {
     "id": 26,
     "name": "2022 Mercedes-Benz E-Class",
-    "image": "src/assets/download.jpeg",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202002/lamborghini_660_140220101539.jpg",
     "price": "$55,300",
     "location": "City B, State B",
     "year": 2022,
@@ -326,7 +326,7 @@
   {
     "id": 28,
     "name": "2022 Lexus ES",
-    "image": "src/assets/download.jpeg",
+    "image": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-2-Series-Gran-Coupe-271220221147.jpg",
     "price": "$40,000",
     "location": "City B, State B",
     "year": 2022,

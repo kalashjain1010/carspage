@@ -4,7 +4,7 @@ import CarList from "./CarList";
 
 function Car() {
   return (
-    <div className="m-4  bg-[#edf1f6] border-solid border-2 overflow-hidden rounded-md">
+    <div className=" bg-[#edf1f6] border-solid border-2 overflow-hidden rounded-md">
       {/* navbar */}
       <div className="border-solid shadow-2xl bg-[#f1f4fa] p-2  m-3 rounded-lg ">
         <div className="flex flex-row">

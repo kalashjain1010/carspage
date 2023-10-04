@@ -10,17 +10,21 @@ const CarCard = ({ car }) => {
   return (
     <>
       <div className="flex flex-row flex-wrap">
-        <div className="bg-[#f1f5fb] w-80 m-10 border-solid border-2 rounded-xl border-white">
+        <div className="bg-[#f1f5fb] w-80 m-10 border-solid border-2 rounded-xl ">
           <div className="flex flex-col p-2">
             <div>
-              <img className="rounded-2xl bg-cover" src={car.image}  alt="Car" />{" "}
-             
+              <img
+                className="rounded-2xl bg-cover"
+                src={car.image}
+                alt="Car"
+                style={{ width: "100%", height: "200px", objectFit: "cover" }}
+              />
             </div>
             <div>
               <div className="flex flex-row justify-between p-2 ">
                 <div className="text-lg">{car.name}</div>
                 <div className="border-dashed border-2 border-blue-400 rounded-xl px-2 p-1">
-                 {car.year}
+                  {car.year}
                 </div>
               </div>
             </div>
@@ -62,11 +66,11 @@ const CarCard = ({ car }) => {
               </div>
             </div>
 
-            <div className="divide-solid h-[2px] bg-white w-full"></div>
+            <div className="divide-solid h-[1px] bg-gray-200 w-full"></div>
 
             {/* last part */}
             <div className="flex flex-row justify-between p-3 ">
-              <div className="text-2xl pt-2">{car.price}</div>
+              <div className="text-lg pt-2">{car.price}/month</div>
               <div className="flex flex-row items-center p-2">
                 <AiOutlineHeart
                   className="text-blue-700 font-bold mr-4 bg-blue-200 rounded-md p-[2px] hover:cursor-pointer hover:bg-white "
